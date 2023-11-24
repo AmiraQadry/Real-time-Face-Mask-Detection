@@ -4,7 +4,8 @@
 ## Overview
 
 This project uses the [Fastai library](https://github.com/fastai/fastai) for real-time face mask detection. 
-It leverages the Fastai vision module, which simplifies the process of training deep learning models for image classification. The pre-trained ResNet50 model is used for the task of face mask detection.
+It leverages the Fastai vision module, which simplifies the process of training deep learning models for image classification. 
+The pre-trained [ResNet50](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) model is used for the task of face mask detection.
 
 ## Requirements
 
