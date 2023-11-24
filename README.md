@@ -14,7 +14,7 @@ It leverages the Fastai vision module, which simplifies the process of training 
 
 ## Face Mask Detection Data set
 
-[Face Mask Detection Data set](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) consists of 7553 RGB images in 2 folders as with_mask and without_mask. 
+[Face Mask Data set](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) consists of 7553 RGB images in 2 folders as with_mask and without_mask. 
 Images are named as label with_mask and without_mask. Images of faces with mask are 3725 and images of faces without mask are 3828.
 
 ## Training
