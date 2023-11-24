@@ -21,5 +21,5 @@ Images are named as label with_mask and without_mask. Images of faces with mask 
 
 The model is trained in two stages:
 
-Stage 1: Training the Frozen Layers
-Stage 2: Fine-tuning Unfrozen Layers
+- Stage 1: Training the Frozen Layers
+- Stage 2: Fine-tuning Unfrozen Layers
